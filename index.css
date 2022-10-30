@@ -6,7 +6,7 @@
 
 #text {
     text-align: center;
-    padding-top: 50px;
+    padding-top: 10px;
     font-size: 30pt;
 }
 
@@ -37,7 +37,7 @@
 }
 
 #btn_input {
-    background-color: #2d0d05; /* Green */
+    background-color: #031b47; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -45,6 +45,11 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    
 
+}
+
+#js_barcode {
+    padding: 20px;
+    text-align: center;
+    width: 100px;
 }
