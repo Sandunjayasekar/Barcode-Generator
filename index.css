@@ -1,11 +1,21 @@
-h1{
+#header {
     text-align: center;
+    font-size: 30px;
+    background-color:rgb(246, 9, 9);
 }
 
-#text{
+#text {
     text-align: center;
+    padding-top: 50px;
+    font-size: 30pt;
 }
 
-.body{
+.body {
+    padding-top: 20px;
     background-color: rgb(186, 201, 211);
+}
+
+#input_field {
+    text-align: center;
+    list-style: circle;
 }
